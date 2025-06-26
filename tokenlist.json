@@ -1,6 +1,6 @@
 {
   "name": "AiCoin List",
-  "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeigkjtcy5sh5cohaekepqnyuoc4vpe7c65qv323fkq55762kdvekzy",
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreievz55xgdx5g4rqgzfkshk6lue3qnj7lhwtjs2346egf2wj6mvqxu",
   "tokens": [
     {
       "chainId": 11155111,
@@ -8,7 +8,7 @@
       "name": "Artificial Intelligence",
       "symbol": "Ai",
       "decimals": 18,
-      "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeigkjtcy5sh5cohaekepqnyuoc4vpe7c65qv323fkq55762kdvekzy"
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafkreievz55xgdx5g4rqgzfkshk6lue3qnj7lhwtjs2346egf2wj6mvqxu"
     }
   ]
 }

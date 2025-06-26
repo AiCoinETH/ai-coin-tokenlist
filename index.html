@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AiCoin Token Info</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      background: #f4f4f7;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      background: white;
+      padding: 40px;
+      border-radius: 12px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+      font-size: 2.5rem;
+      margin-bottom: 20px;
+    }
+    .token-logo {
+      display: block;
+      margin: 0 auto 20px;
+      height: 100px;
+    }
+    .info {
+      font-size: 1.1rem;
+      line-height: 1.8;
+    }
+    .info b {
+      display: inline-block;
+      width: 160px;
+    }
+    .button {
+      display: block;
+      width: fit-content;
+      margin: 30px auto 10px;
+      padding: 12px 24px;
+      background-color: #3b82f6;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: 600;
+      transition: background 0.2s;
+    }
+    .button:hover {
+      background-color: #2563eb;
+    }
+    .footer {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 0.9rem;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <img class="token-logo" src="https://gateway.pinata.cloud/ipfs/bafybeigkjtcy5sh5cohaekepqnyuoc4vpe7c65qv323fkq55762kdvekzy" alt="Ai Token Logo" />
+    <h1>AiCoin Token</h1>
+    <div class="info">
+      <p><b>Name:</b> Artificial Intelligence</p>
+      <p><b>Symbol:</b> Ai</p>
+      <p><b>Decimals:</b> 18</p>
+      <p><b>Total Supply:</b> 8,062,000,000 Ai</p>
+      <p><b>Chain ID:</b> 11155111 (Sepolia Testnet)</p>
+      <p><b>Contract:</b> <code>0xD0685EE942338F03Bc67eFC3823bC93CB1b143a1</code></p>
+    </div>
+    <a class="button" href="./tokenlist.json" download>📥 Download tokenlist.json</a>
+    <div class="footer">
+      <p>Open source at <a href="https://github.com/AiCoinETH/ai-coin-tokenlist" target="_blank">GitHub</a></p>
+    </div>
+  </div>
+</body>
+</html>

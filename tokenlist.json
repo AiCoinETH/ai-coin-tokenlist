@@ -1,0 +1,14 @@
+{
+  "name": "AiCoin List",
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeigkjtcy5sh5cohaekepqnyuoc4vpe7c65qv323fkq55762kdvekzy",
+  "tokens": [
+    {
+      "chainId": 11155111,
+      "address": "0xD0685EE942338F03Bc67eFC3823bC93CB1b143a1",
+      "name": "Artificial Intelligence",
+      "symbol": "Ai",
+      "decimals": 18,
+      "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeigkjtcy5sh5cohaekepqnyuoc4vpe7c65qv323fkq55762kdvekzy"
+    }
+  ]
+}

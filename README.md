@@ -1,8 +1,8 @@
-# AiCoin Token List
+# 🧠 AiCoin Token List
 
-This repository contains the official token list for the **Artificial Intelligence Coin (Ai)** project.
+Welcome to the official token list repository for **AiCoin (Artificial Intelligence Coin)** — a decentralized meme-driven crypto asset inspired by the rise of artificial intelligence.
 
-## 🧠 Token Details
+## 🔍 Token Overview
 
 - **Name**: Artificial Intelligence  
 - **Symbol**: Ai  
@@ -11,21 +11,28 @@ This repository contains the official token list for the **Artificial Intelligen
 - **Chain ID**: `11155111` (Sepolia Testnet)  
 - **Contract Address**: `0xD0685EE942338F03Bc67eFC3823bC93CB1b143a1`
 
-## 📦 Token Logo
+## 🖼 Token Logo
 
-Token logo is hosted on IPFS:  
-[https://gateway.pinata.cloud/ipfs/bafybeigkjtcy5sh5cohaekepqnyuoc4vpe7c65qv323fkq55762kdvekzy](https://gateway.pinata.cloud/ipfs/bafybeigkjtcy5sh5cohaekepqnyuoc4vpe7c65qv323fkq55762kdvekzy)
+Our logo is hosted on IPFS and can be freely used in dApps and wallets:
+
+[![Token Logo](https://gateway.pinata.cloud/ipfs/bafybeigkjtcy5sh5cohaekepqnyuoc4vpe7c65qv323fkq55762kdvekzy)](https://gateway.pinata.cloud/ipfs/bafybeigkjtcy5sh5cohaekepqnyuoc4vpe7c65qv323fkq55762kdvekzy)
 
 ## 📄 tokenlist.json
 
-The list of supported tokens is stored in the `tokenlist.json` file and follows the standard [Ethereum Token List](https://tokenlists.org/) format.
+The file [`tokenlist.json`](./tokenlist.json) is structured according to the [Ethereum Token List Standard](https://tokenlists.org/) and can be used for:
 
-## 🌐 Purpose
+- Wallet integration (e.g. MetaMask, Trust Wallet)
+- Decentralized exchanges (e.g. Uniswap)
+- Indexing services and portfolio tools
 
-This repository serves as a public reference for dApps, wallets, and explorers to integrate and verify the AiCoin token identity and metadata.
+## 🌐 Project Purpose
 
----
+This repository ensures:
+- Transparency of token data  
+- Easy integration with DeFi applications  
+- Decentralized storage of token assets via IPFS  
+- Verification of token metadata for Web3 tools
 
-## License
+## 📜 License
 
-MIT
+This project is licensed under the [MIT License](./LICENSE).
